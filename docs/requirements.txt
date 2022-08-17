@@ -1,3 +1,6 @@
 sphinx>=5.1.1
+sphinx-autobuild
+sphinx-design
 furo>=2022.6.21
+myst-parser
 pygments>=2.7.0
